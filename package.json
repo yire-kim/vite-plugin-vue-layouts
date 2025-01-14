@@ -1,5 +1,5 @@
 {
-  "name": "@yire-kim/vite-plugin-vue-layouts",
+  "name": "@yireeli/vite-plugin-vue-layouts",
   "version": "0.11.1",
   "description": "Router based layout plugin for Vite and Vue",
   "author": "johncampionjr <npm@relate.dev>",
